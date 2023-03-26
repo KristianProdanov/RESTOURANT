@@ -1,0 +1,2 @@
+Scaffold-DbContext "Server=DESKTOP-DQCSC0S\SERVERNEW;Database=E-GradeBook;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data\Models
+Scaffold-DbContext "Server=COMP10\MSSQLSERVERNEW;Database=Proekt;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data\Models
